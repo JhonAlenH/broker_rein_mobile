@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "696540854411",
+    "project_id": "globex-re",
+    "storage_bucket": "globex-re.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696540854411:android:e86d97277cfbfa7e9f3c8e",
+        "android_client_info": {
+          "package_name": "com.tecnoprog.globex"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjhDv2ujYv656Mhc15vJEOu1MNAmWrgK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
